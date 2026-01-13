@@ -39,9 +39,7 @@ AI-Paper-Evaluator/
 ```
 ## 🛠️ Tech Stack
 Frontend: Streamlit
-
-AI: Google Gemini / OpenAI API
-
+**ML-Powered (Offline/Local):** Uses Python ML libraries like **Scikit-learn (TF-IDF/Cosine Similarity)** or local **HuggingFace Transformers** to evaluate answers without needing an internet connection or API keys.
 OCR/Parser: pdfplumber / PyPDF2
 
 Backend: Python 3.12
